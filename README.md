@@ -39,7 +39,7 @@ Unapredjivanje projekta bi moglo da se izvede uklanjanjem sg90 servo motora koji
 
         Dimitrije Marić:
             Email: dimitrijemmaric@gmail.com
-            Github: /
+            Github: https://github.com/DimitrijeMMaric
 
 # english
 
@@ -80,6 +80,6 @@ Improvements to the project could be made by removing the sg90 servo motor that 
 
         Dimitrije Maric:
             Email: dimitrijemmaric@gmail.com
-            Github: /
+            Github: https://github.com/DimitrijeMMaric
 
 
