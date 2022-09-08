@@ -4,7 +4,7 @@
 
 ## opis projekta
 
-Pokretna traka je projekat u kom se kutije razvrstavaju po boji i materijalu. Kada se projekat pokrene korisnik će imati izbor da li će da razvrstava kutije po boji ili po materijalu, izbor ce se korisniku daje klikom na dugme. Traka ce raditi tako sto ce odgurati kutiju do kraja trake gde će se nasloniti na "Soil Moisture Sensor" koji će izmeriti provodljivost materijala i po tome ce odrediti od kog matrijala je napravljena kutija a iznad trenutnog polozaja kutije stoji "TCS3200 Color Sensor" koji će odrediti da li je kutija obojena u crnu ili belu. Nakon sto senzori odrede potrebne informacije o kutiji kutija se vraca nekoliko santimetara unazad i zatim ga "sg90 servo motor" sklanja u levu ili desnu stranu u zavisnosti od osobina kutije koje su senzori odredili. Traka se krece tako što stepper motor okrece valjke oko kojih je obmotana gumena traka.
+Pokretna traka je projekat u kom se kutije razvrstavaju po boji i materijalu. Kada se projekat pokrene korisnik će imati izbor da li će da razvrstava kutije po boji ili po materijalu, izbor ce se korisniku daje klikom na dugme. Traka ce raditi tako sto ce odgurati kutiju do kraja trake gde će se nasloniti na "Soil Moisture Sensor" koji će izmeriti provodljivost materijala i po tome ce odrediti od kog matrijala je napravljena kutija a iznad trenutnog polozaja kutije stoji "TCS3200 Color Sensor" koji će odrediti da li je kutija obojena u crnu ili belu. Nakon sto senzori odrede potrebne informacije o kutiji, kutija se vraca nekoliko santimetara unazad i zatim ga "sg90 servo motor" sklanja u levu ili desnu stranu u zavisnosti od osobina kutije koje su senzori odredili. Traka se krece tako što stepper motor okrece valjke oko kojih je obmotana gumena traka.
 
 ## hardver 
 
